@@ -1,7 +1,4 @@
 # DETALLES E INFO
-
-<!-- Add Image Here -->
-
 user melser 
 dev games web and interactive apps 
 desarollo de juegos web apps interactivos
@@ -13,6 +10,7 @@ empezando y creando varios ejemplos
 
 solamente revisa mis projectos
 
+<!-- 
 ### Installation
 
 run projects
@@ -37,7 +35,7 @@ testeos
 test <environment>
 ```
 
-<!-- -- -- -- -- -- -- -- -- -- -- 
+
 ## Built With
 
 List things used to build the project
