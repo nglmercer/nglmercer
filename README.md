@@ -6,27 +6,12 @@ user melser
 dev games web and interactive apps 
 desarollo de juegos web apps interactivos
 
-<!-- Add Badge Here (https://shields.io/) -->
-
-<a href="#getting-started">Getting Started</a> •
-<a href="#built-with">Built With</a> •
-<a href="#roadmap">Roadmap</a> •
-<a href="#community">Community</a> •
-<a href="#contributing">Contributing</a> •
-<a href="#license">License</a>
-
-<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
-
 ## Getting Started
 
 empezando y creando varios ejemplos
 
-### Prerequisites
 
 solamente revisa mis projectos
-
-- [Example 1]()
-- [Example 2]()
 
 ### Installation
 
@@ -38,15 +23,13 @@ git clone <project>
 cd <project>
 ```
 
-### Run
+Run
 
 Run under scripts
 
 ```sh
 run <environment>
 ```
-
-### Test
 
 testeos
 
@@ -66,7 +49,6 @@ List things used to build the project
 
 ## Roadmap
 
-### v1.0.0
 
 - [x] desarrollo de una plataforma para la comunidad
 - [ ] terminar el projecto
