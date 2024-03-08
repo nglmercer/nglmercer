@@ -54,14 +54,16 @@ List things used to build the project
 > **Note**
 > datos y mas datos
 
-<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
+<!-- -- -- -- -- -- -- -- -- -- -- -- -- --
 
 ## Community
 
 Lista de deseos de la comunidad
 
-<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
+
 
 ## Contributing
 
 contribuye si es que lo ves necesario
+-- -->
+
