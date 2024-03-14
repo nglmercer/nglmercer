@@ -1,5 +1,4 @@
 # DETALLES E INFO
-user melser 
 dev games web and interactive apps 
 desarollo de juegos web apps interactivos
 
@@ -52,7 +51,7 @@ List things used to build the project
 - [ ] terminar el projecto
 
 > **Note**
-> datos y mas datos
+> [datos y mas datos](https://linktr.ee/melsern?ltsid=b2b4fa34-2a0e-421b-91d8-5d24131136b9)
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- --
 
