@@ -51,7 +51,9 @@ List things used to build the project
 - [ ] terminar el projecto
 
 > **Note**
-> [datos y mas datos](https://linktr.ee/melsern?ltsid=b2b4fa34-2a0e-421b-91d8-5d24131136b9)
+> [mis links](https://linktr.ee/melsern?ltsid=b2b4fa34-2a0e-421b-91d8-5d24131136b9)
+> ![image](https://github.com/nglmercer/nglmercer/assets/128845117/af8591d6-3250-448b-9c37-97a873d5e02b)
+
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- --
 
