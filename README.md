@@ -2,15 +2,12 @@
 dev games web and interactive apps 
 desarollo de juegos web apps interactivos
 
-## Getting Started
+## Inicio
 
-empezando y creando varios ejemplos
+empezando y creando varios ejemplos mucho mas funcionales que visuales, puedes revisar y apoyar mis trabajos dandole estrellita.
 ### TiktokLiveApp
 proyecto de sonidos alertas y mas funciones para utilizar en lives de tiktok 
 [![ click para ver y encontrar la app](https://img.shields.io/badge/CLICK%20PARA%20LEER%20O%20REVISAR%20DOCUMENTACION-Click%20aquí%20para%20leer%20toda%20la%20documentación-blue?style=for-the-badge&logo=github)](https://nglmercer.github.io/TikLiveApp)
-
-
-solamente revisa mis projectos
 
 <!-- 
 ### Installation
@@ -53,7 +50,7 @@ List things used to build the project
 - [x] desarrollo de una plataforma para la comunidad
 - [ ] terminar el projecto
 
-> **Note**
+> **Notas**
 > [mis links](https://linktr.ee/melsern?ltsid=b2b4fa34-2a0e-421b-91d8-5d24131136b9)
 
 
