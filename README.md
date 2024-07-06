@@ -66,4 +66,10 @@ Lista de deseos de la comunidad
 
 contribuye si es que lo ves necesario
 -- -->
+# Trabajo
+- [ ] Trabajo
+- [ ] Estudio
+- [x] aprendo
+- [ ] entretengo
+- [x] experimento
 
