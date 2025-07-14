@@ -1,13 +1,16 @@
-# DETALLES E INFO
-dev games web and interactive apps 
-desarollo de juegos web apps interactivos
+# DETALLES E INFO / DETAILS & INFO
 
-## Inicio
+🎮 **Desarrollo de juegos, aplicaciones web e interactivas**  
+💻 **Game, web, and interactive app development**
 
-empezando y creando varios ejemplos mucho mas funcionales que visuales, puedes revisar y apoyar mis trabajos dandole estrellita.
-### TiktokLiveApp
-proyecto de sonidos alertas y mas funciones para utilizar en lives de tiktok 
-[![ click para ver y encontrar la app](https://img.shields.io/badge/CLICK%20PARA%20LEER%20O%20REVISAR%20DOCUMENTACION-Click%20aquí%20para%20leer%20toda%20la%20documentación-blue?style=for-the-badge&logo=github)](https://gh-pages--tiktokliveappdocs.netlify.app/)
+---
+
+## Inicio / Getting Started
+
+Actualmente estoy creando y experimentando con varios proyectos enfocados más en la funcionalidad que en el aspecto visual. Puedes revisar mis trabajos y apoyarlos con una ⭐ si te parecen útiles o interesantes.
+
+I’m currently working on and experimenting with several projects focused more on functionality than visuals. Feel free to explore my work and leave a ⭐ if you find it helpful or interesting.
+
 
 <!-- 
 ### Installation
