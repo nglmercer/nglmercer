@@ -16,15 +16,12 @@ Soy un desarrollador apasionado por crear soluciones integrales.
 
 ---
 
-## 📊
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nglmercer&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Melsern" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nglmercer&layout=compact&theme=tokyonight&hide=html" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nglmercer&show_icons=true&theme=tokyonight&count_private=true" />
+    <br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nglmercer&layout=compact&theme=tokyonight&hide=html" />
 </p>
 
 ---
 
-## 📫 My links
-[![Linktree](https://img.shields.io/badge/Linktree-43B02A?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/melsern?ltsid=b2b4fa34-2a0e-421b-91d8-5d24131136b9)
+## 📫 My links [![Linktree](https://img.shields.io/badge/Linktree-43B02A?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/melsern?ltsid=b2b4fa34-2a0e-421b-91d8-5d24131136b9)
