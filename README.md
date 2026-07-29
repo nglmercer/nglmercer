@@ -9,18 +9,16 @@ Soy un desarrollador apasionado por crear soluciones integrales.
 ## 🚀 Tecnologías y Herramientas
 
 ### Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) [Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nglmercer&show_icons=true&theme=tokyonight&count_private=true" />
-    <br>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nglmercer&layout=compact&theme=tokyonight&hide=html" />
-</p>
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=nglmercer&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nglmercer&layout=compact&theme=tokyonight&hide=html)
 
 ---
 
