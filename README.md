@@ -1,6 +1,6 @@
 # Hi there, I'm Melser! 👋 
 
-### 🎮 Game Dev | 💻 Full-Stack Developer | 🤖 Automation Enthusiast
+###  Desktop/web Dev |  Full-Stack Developer
 
 Soy un desarrollador apasionado por crear soluciones integrales.
 
